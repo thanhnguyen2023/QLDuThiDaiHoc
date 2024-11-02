@@ -1,0 +1,13 @@
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\bin\Debug\BLL.dll
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\bin\Debug\BLL.pdb
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\bin\Debug\DBConnect.dll
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\bin\Debug\Models.dll
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\bin\Debug\DBConnect.pdb
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\bin\Debug\Models.pdb
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.dll
+C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.pdb

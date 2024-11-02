@@ -1,0 +1,6 @@
+C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\bin\Debug\DBConnect.dll
+C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\bin\Debug\DBConnect.pdb
+C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.csproj.AssemblyReference.cache
+C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.csproj.CoreCompileInputs.cache
+C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.dll
+C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.pdb
