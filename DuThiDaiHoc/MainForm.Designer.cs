@@ -115,9 +115,10 @@ namespace DuThiDaiHoc
             lbDangXuat.ForeColor = Color.FromArgb(244, 0, 0);
             lbDangXuat.Location = new Point(671, 62);
             lbDangXuat.Name = "lbDangXuat";
-            lbDangXuat.Size = new Size(82, 17);
+            lbDangXuat.Size = new Size(165, 32);
             lbDangXuat.TabIndex = 15;
             lbDangXuat.Text = "ĐĂNG XUẤT";
+            lbDangXuat.Click += lbDangXuat_Click;
             // 
             // customerButton1
             // 
@@ -138,7 +139,7 @@ namespace DuThiDaiHoc
             label6.ForeColor = Color.FromArgb(244, 0, 0);
             label6.Location = new Point(597, 62);
             label6.Name = "label6";
-            label6.Size = new Size(41, 17);
+            label6.Size = new Size(84, 32);
             label6.TabIndex = 13;
             label6.Text = "ĐIỂM";
             // 
@@ -148,7 +149,7 @@ namespace DuThiDaiHoc
             label5.ForeColor = Color.FromArgb(244, 0, 0);
             label5.Location = new Point(512, 62);
             label5.Name = "label5";
-            label5.Size = new Size(47, 17);
+            label5.Size = new Size(94, 32);
             label5.TabIndex = 13;
             label5.Text = "HỒ SƠ";
             // 
@@ -158,7 +159,7 @@ namespace DuThiDaiHoc
             label4.ForeColor = Color.FromArgb(244, 0, 0);
             label4.Location = new Point(386, 62);
             label4.Name = "label4";
-            label4.Size = new Size(107, 17);
+            label4.Size = new Size(215, 32);
             label4.TabIndex = 13;
             label4.Text = "NGUYỆN VỌNG";
             // 
@@ -222,6 +223,7 @@ namespace DuThiDaiHoc
             panelMain.Name = "panelMain";
             panelMain.Size = new Size(992, 506);
             panelMain.TabIndex = 2;
+            panelMain.Paint += panelMain_Paint;
             // 
             // pictureBox1
             // 
@@ -235,7 +237,7 @@ namespace DuThiDaiHoc
             // 
             // MainForm
             // 
-            AutoScaleDimensions = new SizeF(8F, 17F);
+            AutoScaleDimensions = new SizeF(16F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(992, 617);
             Controls.Add(panelMain);

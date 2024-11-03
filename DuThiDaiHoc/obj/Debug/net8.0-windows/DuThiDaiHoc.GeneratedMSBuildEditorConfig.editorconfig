@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DuThiDaiHoc
-build_property.ProjectDir = C:\Users\luu79\source\repos\DuThiDaiHoc\DuThiDaiHoc\
+build_property.ProjectDir = D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\DuThiDaiHoc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DuThiDaiHoc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b88408671ff0943f08d763d71e2d6ce64ce8f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("DuThiDaiHoc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DuThiDaiHoc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

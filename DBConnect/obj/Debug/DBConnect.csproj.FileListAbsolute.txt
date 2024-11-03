@@ -4,3 +4,9 @@ C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.csproj.Ass
 C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.csproj.CoreCompileInputs.cache
 C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.dll
 C:\Users\luu79\source\repos\DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.pdb
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\DBConnect\bin\Debug\DBConnect.dll
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\DBConnect\bin\Debug\DBConnect.pdb
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.csproj.AssemblyReference.cache
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.dll
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\DBConnect\obj\Debug\DBConnect.pdb

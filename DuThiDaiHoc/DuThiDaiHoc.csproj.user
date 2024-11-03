@@ -4,6 +4,9 @@
     <Compile Update="AddNguyenVong.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="AdminLoginForm.cs">
       <SubType>Form</SubType>
     </Compile>

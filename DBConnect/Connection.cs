@@ -7,7 +7,7 @@ namespace DBConnect
 {
     public class Connection
     {
-        public string DataSource { get; set; } = "DESKTOP-MBTO88F";
+        public string DataSource { get; set; } = "SHIROO";
         public string DatabaseName { get; set; } = "DuThiDaiHoc";
         public string ConnectionString => $"Data Source={DataSource};Initial Catalog={DatabaseName};Integrated Security=True";
         private SqlConnection conn;

@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DuThiDaiHoc.csproj": {}
+    "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\DuThiDaiHoc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\BLL\\BLL.csproj": {
+    "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\BLL\\BLL.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\BLL\\BLL.csproj",
+        "projectUniqueName": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\BLL\\BLL.csproj",
+        "projectPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\BLL\\BLL.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\DBConnect.csproj": {
-                "projectPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\DBConnect.csproj"
+              "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DBConnect\\DBConnect.csproj": {
+                "projectPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DBConnect\\DBConnect.csproj"
               },
-              "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\Models\\Models.csproj"
+              "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\Models\\Models.csproj": {
+                "projectPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\Models\\Models.csproj"
               }
             }
           }
@@ -26,11 +26,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\DBConnect.csproj": {
+    "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DBConnect\\DBConnect.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\DBConnect.csproj",
+        "projectUniqueName": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DBConnect\\DBConnect.csproj",
         "projectName": "DBConnect",
-        "projectPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\DBConnect.csproj",
+        "projectPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DBConnect\\DBConnect.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -41,17 +41,17 @@
         "net472": {}
       }
     },
-    "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DuThiDaiHoc.csproj": {
+    "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\DuThiDaiHoc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DuThiDaiHoc.csproj",
+        "projectUniqueName": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\DuThiDaiHoc.csproj",
         "projectName": "DuThiDaiHoc",
-        "projectPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DuThiDaiHoc.csproj",
-        "packagesPath": "C:\\Users\\luu79\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\obj\\",
+        "projectPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\DuThiDaiHoc.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luu79\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,11 +66,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\BLL\\BLL.csproj"
+              "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\BLL\\BLL.csproj"
               },
-              "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\DBConnect.csproj": {
-                "projectPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\DBConnect.csproj"
+              "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DBConnect\\DBConnect.csproj": {
+                "projectPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\DBConnect\\DBConnect.csproj"
               }
             }
           }
@@ -114,15 +114,15 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\Models\\Models.csproj": {
+    "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\Models\\Models.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\Models\\Models.csproj",
+        "projectPath": "D:\\Code\\Visual Studio\\Lập trình trực quan\\BTL\\Winform_DuThiDaiHoc\\Models\\Models.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

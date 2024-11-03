@@ -1,110 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\",
+  "WorkspaceRootPath": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|d:\\code\\visual studio\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl\\winform_duthidaihoc\\duthidaihoc\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|d:\\code\\visual studio\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl\\winform_duthidaihoc\\duthidaihoc\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\duthidaihoc\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\duthidaihoc\\addnguyenvong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\addnguyenvong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\duthidaihoc\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\adminloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\adminloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|d:\\code\\visual studio\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl\\winform_duthidaihoc\\duthidaihoc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{424C1EB5-A9C1-4336-96FF-C4913C6113CF}|DBConnect\\DBConnect.csproj|C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\dbconnect\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{424C1EB5-A9C1-4336-96FF-C4913C6113CF}|DBConnect\\DBConnect.csproj|solutionrelative:dbconnect\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6D3452D-5610-42F6-B56C-9BEFD9F95FB3}|Models\\Models.csproj|C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\models\\diemchuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6D3452D-5610-42F6-B56C-9BEFD9F95FB3}|Models\\Models.csproj|solutionrelative:models\\diemchuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\danhsachsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\danhsachsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\danhsachsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\danhsachsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\danhsachsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\danhsachsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\dsnguyenvong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\dsnguyenvong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\dsnguyenvong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\dsnguyenvong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\addnguyenvong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\addnguyenvong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\duthidaihoc\\hosothisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\hosothisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\hosothisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\hosothisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\duthidaihoc\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\addnguyenvong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\addnguyenvong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2BED3A5-4FB5-4BAA-9FB4-5E26D003C30C}|BLL\\BLL.csproj|C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\bll\\dsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2BED3A5-4FB5-4BAA-9FB4-5E26D003C30C}|BLL\\BLL.csproj|solutionrelative:bll\\dsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\hosothisinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\hosothisinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\duthidaihoc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\duthidaihoc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\diem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\diem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|d:\\code\\visual studio\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl\\winform_duthidaihoc\\duthidaihoc\\dsnguyenvong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\dsnguyenvong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|c:\\users\\luu79\\source\\repos\\duthidaihoc\\duthidaihoc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\duthidaihoc\\hosothisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\hosothisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\duthidaihoc\\danhsachsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADD9D26A-DD56-4E21-B54F-7CC451B6B10E}|DuThiDaiHoc\\DuThiDaiHoc.csproj|solutionrelative:duthidaihoc\\danhsachsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,339 +46,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DiemChuan.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\Models\\DiemChuan.cs",
-              "RelativeDocumentMoniker": "Models\\DiemChuan.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\Models\\DiemChuan.cs",
-              "RelativeToolTip": "Models\\DiemChuan.cs",
-              "ViewState": "AgIAAAAAAACQAAAAAIAZwBEAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AdminLoginForm.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.cs",
+              "RelativeDocumentMoniker": "DuThiDaiHoc\\AdminLoginForm.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.cs",
+              "RelativeToolTip": "DuThiDaiHoc\\AdminLoginForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAawGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:10:41.571Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-11-03T12:29:43.35Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddNguyenVong.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AddNguyenVong.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\AddNguyenVong.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AddNguyenVong.cs [Design]",
-              "RelativeToolTip": "DuThiDaiHoc\\AddNguyenVong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T10:56:31.811Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AdminLoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.cs",
               "RelativeDocumentMoniker": "DuThiDaiHoc\\AdminLoginForm.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.cs [Design]",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.cs [Design]",
               "RelativeToolTip": "DuThiDaiHoc\\AdminLoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:21:02.955Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminLoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\AdminLoginForm.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\AdminLoginForm.cs",
-              "ViewState": "AgIAAEUAAAAAoP/////fv0gAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:20:06.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\Program.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\Program.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\Program.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwPREAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T14:09:05.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T12:29:41.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AdminLoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\AdminLoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AdminLoginForm.Designer.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\AdminLoginForm.Designer.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAIwO4AAAABAAAAAAAAAA==",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\MainForm.cs",
+              "RelativeDocumentMoniker": "DuThiDaiHoc\\MainForm.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\MainForm.cs",
+              "RelativeToolTip": "DuThiDaiHoc\\MainForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAEwGIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:19:12.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Connection.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\Connection.cs",
-              "RelativeDocumentMoniker": "DBConnect\\Connection.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DBConnect\\Connection.cs",
-              "RelativeToolTip": "DBConnect\\Connection.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAUwHUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:42:03.114Z",
+              "WhenOpened": "2024-11-03T12:26:49.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\LoginForm.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\LoginForm.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\LoginForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "DSNguyenVong.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\DSNguyenVong.cs",
+              "RelativeDocumentMoniker": "DuThiDaiHoc\\DSNguyenVong.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\DSNguyenVong.cs",
+              "RelativeToolTip": "DuThiDaiHoc\\DSNguyenVong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:46:11.588Z",
+              "WhenOpened": "2024-11-03T09:13:39.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\Admin.cs",
+              "RelativeDocumentMoniker": "DuThiDaiHoc\\Admin.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\Admin.cs",
+              "RelativeToolTip": "DuThiDaiHoc\\Admin.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwDQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:59:15.604Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\Admin.cs",
+              "RelativeDocumentMoniker": "DuThiDaiHoc\\Admin.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\Admin.cs [Design]",
+              "RelativeToolTip": "DuThiDaiHoc\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:49:56.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\MainForm.cs",
+              "RelativeDocumentMoniker": "DuThiDaiHoc\\MainForm.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\MainForm.cs [Design]",
+              "RelativeToolTip": "DuThiDaiHoc\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:31:35.294Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\LoginForm.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\LoginForm.cs [Design]",
-              "RelativeToolTip": "DuThiDaiHoc\\LoginForm.cs [Design]",
+              "Title": "HoSoThiSinh.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\HoSoThiSinh.cs",
+              "RelativeDocumentMoniker": "DuThiDaiHoc\\HoSoThiSinh.cs",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\HoSoThiSinh.cs [Design]",
+              "RelativeToolTip": "DuThiDaiHoc\\HoSoThiSinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:21:55.06Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-03T09:11:59.018Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\LoginForm.Designer.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\LoginForm.Designer.cs",
-              "ViewState": "AgIAAAkAAAAA//////8PwBIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:19:04.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DanhSachSV.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DanhSachSV.Designer.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\DanhSachSV.Designer.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DanhSachSV.Designer.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\DanhSachSV.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T14:19:25.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DanhSachSV.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DanhSachSV.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\DanhSachSV.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DanhSachSV.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\DanhSachSV.cs",
-              "ViewState": "AgIAAAQAAAAAMzMzMzMrwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T14:20:19.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "DanhSachSV.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DanhSachSV.cs",
+              "DocumentMoniker": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\DanhSachSV.cs",
               "RelativeDocumentMoniker": "DuThiDaiHoc\\DanhSachSV.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DanhSachSV.cs [Design]",
+              "ToolTip": "D:\\Code\\Visual Studio\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTL\\Winform_DuThiDaiHoc\\DuThiDaiHoc\\DanhSachSV.cs [Design]",
               "RelativeToolTip": "DuThiDaiHoc\\DanhSachSV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T14:55:51.743Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DSNguyenVong.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DSNguyenVong.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\DSNguyenVong.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DSNguyenVong.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\DSNguyenVong.cs",
-              "ViewState": "AgIAAIMAAAAA/v//////v6cAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:45:18.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DSNguyenVong.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DSNguyenVong.Designer.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\DSNguyenVong.Designer.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\DSNguyenVong.Designer.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\DSNguyenVong.Designer.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAADwv9sAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:59:25.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddNguyenVong.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AddNguyenVong.Designer.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\AddNguyenVong.Designer.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AddNguyenVong.Designer.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\AddNguyenVong.Designer.cs",
-              "ViewState": "AgIAAEgAAADAzMzMzMwdwFYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T14:16:54.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Diem.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\Diem.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\Diem.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\Diem.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\Diem.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAANEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:02:45.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HoSoThiSinh.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\HoSoThiSinh.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\HoSoThiSinh.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\HoSoThiSinh.cs [Design]",
-              "RelativeToolTip": "DuThiDaiHoc\\HoSoThiSinh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T11:03:03.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Diem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\Diem.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\Diem.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\Diem.cs [Design]",
-              "RelativeToolTip": "DuThiDaiHoc\\Diem.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:25:24.309Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HoSoThiSinh.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\HoSoThiSinh.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\HoSoThiSinh.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\HoSoThiSinh.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\HoSoThiSinh.cs",
-              "ViewState": "AgIAAKMBAAAAAAAAAAAAAKMBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T11:03:05.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AddNguyenVong.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AddNguyenVong.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\AddNguyenVong.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\AddNguyenVong.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\AddNguyenVong.cs",
-              "ViewState": "AgIAAFsBAAAAAAAAAAAAALIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T17:02:28.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HoSoThiSinh.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\HoSoThiSinh.Designer.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\HoSoThiSinh.Designer.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\HoSoThiSinh.Designer.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\HoSoThiSinh.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T11:49:55.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DSNV.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\BLL\\DSNV.cs",
-              "RelativeDocumentMoniker": "BLL\\DSNV.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\BLL\\DSNV.cs",
-              "RelativeToolTip": "BLL\\DSNV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T07:16:07.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Diem.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\Diem.Designer.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\Diem.Designer.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\Diem.Designer.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\Diem.Designer.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwA4BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:38:25.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\MainForm.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\MainForm.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\MainForm.cs",
-              "RelativeToolTip": "DuThiDaiHoc\\MainForm.cs",
-              "ViewState": "AgIAAFIAAAAAkZmZmZnzv0wAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:46:21.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\MainForm.cs",
-              "RelativeDocumentMoniker": "DuThiDaiHoc\\MainForm.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\DuThiDaiHoc\\DuThiDaiHoc\\MainForm.cs [Design]",
-              "RelativeToolTip": "DuThiDaiHoc\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:31:35.294Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-02T14:55:51.743Z"
             }
           ]
         }

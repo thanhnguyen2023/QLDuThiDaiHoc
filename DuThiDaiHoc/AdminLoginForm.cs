@@ -74,9 +74,12 @@ namespace DuThiDaiHoc
                 if (result != null && Convert.ToInt32(result) > 0)
                 {
                     MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    // Thực hiện hành động sau khi đăng nhập thành công, ví dụ: mở form quản lý admin
-                    
+                    // Thực hiện hành động sau khi đăng nhập thành công, ví dụ: mở form quản lý admin 
                     this.Hide();
+                    Admin ad = new Admin();
+                    ad.ShowDialog();
+                    ad = null;
+                    this.Show();
                 }
                 else
                 {
@@ -93,7 +96,10 @@ namespace DuThiDaiHoc
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            this.Hide();
+            LoginForm loginForm = new LoginForm();
+            loginForm.ShowDialog();
+            this.Close();
         }
 
         private void label3_Click(object sender, EventArgs e)

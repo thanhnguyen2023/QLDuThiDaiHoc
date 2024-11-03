@@ -11,3 +11,16 @@ C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.csproj.CoreCompileInpu
 C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.csproj.Up2Date
 C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.dll
 C:\Users\luu79\source\repos\DuThiDaiHoc\BLL\obj\Debug\BLL.pdb
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\bin\Debug\BLL.dll
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\bin\Debug\BLL.pdb
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\bin\Debug\DBConnect.dll
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\bin\Debug\Models.dll
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\bin\Debug\System.Data.SqlClient.dll
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\bin\Debug\DBConnect.pdb
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\bin\Debug\Models.pdb
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\bin\Debug\System.Data.SqlClient.xml
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\obj\Debug\BLL.dll
+D:\Code\Visual Studio\Lập trình trực quan\BTL\Winform_DuThiDaiHoc\BLL\obj\Debug\BLL.pdb
